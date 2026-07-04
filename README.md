@@ -35,7 +35,7 @@ macOS / Linux:
 git clone https://github.com/eragonlonelyboy-lab/veritas && mkdir -p ~/.claude/skills/veritas && cp veritas/SKILL.md veritas/LICENSE ~/.claude/skills/veritas/
 ```
 
-That's the whole install: one markdown file in your skills folder. Claude Code picks it up on the next session. Broke something? Open your agent in this repo and say: *read the README and install VERITAS for me.*
+That's the whole install: one markdown file in your skills folder. Claude Code picks it up on the next session. Prefer a guided hand? Open your agent in this repo and say: *set up VERITAS for me*: the companion walks the one-step install and offers voice calibration, explaining each part.
 
 ## Use
 

@@ -6,6 +6,8 @@
 
 *Your AI writes like an AI. VERITAS strips the tells, keeps your voice, and grades its own work before handing it back.*
 
+**Kill the AI slop. Keep your voice.**
+
 ![license](https://img.shields.io/badge/license-MIT-E8A23D)
 ![skill](https://img.shields.io/badge/skill-2C7A7B)
 ![zero deps](https://img.shields.io/badge/dependencies-0-2C7A7B)

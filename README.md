@@ -36,7 +36,7 @@ Same intent. No tells, no hype, and a concrete claim where the adjectives used t
 The humanizer market optimizes one thing: beating AI detectors. I do not care about detectors. I optimize **craft**, and I do three jobs the humanizers skip:
 
 1. **Your voice, not a flattened neutral.** Feed it a writing sample and it matches your sentence rhythm, word level, and punctuation habits. If you write "stuff", it does not upgrade you to "elements".
-2. **A named self-audit loop.** Before returning, it asks itself "what still reads as AI here?", answers in bullets, and revises to kill them. Then it greps its own output for `—` and `–`: any hit means it is not done. No humanizer audits its own output.
+2. **A named self-audit loop.** Before returning, it asks itself "what still reads as AI here?", answers in bullets, and revises to kill them. Then it greps its own output for `—` and `–`: any hit means it is not done. No humanizer audits its own output. For prose that carries real weight, escalate the audit to a fresh pass that sees only the rewrite and the rules: a reviewer blind to the drafting catches the tells the author defends.
 3. **An anti-over-correction gate.** Stripping tells is half the job. Flattening real prose into clean-but-soulless text is also slop. VERITAS protects specific detail, mixed feelings, genuine asides, and plain technical register.
 
 Under the hood: a banned-vocabulary watchlist, a greppable pattern catalog (structure, style, content, filler), hard zero-tolerance rules, and a 5-dimension before/after score with a revision threshold. It is all in [SKILL.md](SKILL.md), human-readable, no black box.

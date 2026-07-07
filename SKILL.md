@@ -40,6 +40,8 @@ Run all four steps every time. By default show only the final. Show the audit bu
 
 Deliver: the final rewrite. On request, also the audit bullets and a short list of what changed.
 
+**High-stakes prose: prefer a fresh pass over self-audit.** The step-4 audit is fast because one model checks its own draft, but a model grading its own work tends to defend the choices it just made. For writing that carries real weight (a launch post, a board memo, external comms), run the audit as a *fresh* read that sees only the rewrite and the rules, not the reasoning that produced it. A reviewer with no memory of why a sentence was written catches the tells the author rationalizes.
+
 ## Hard rules (zero tolerance)
 
 - **No em or en dashes.** Treat as a fail gate, not a preference. Replace in this order: period, comma, colon, parentheses, then restructure. Catch spaced ` — ` and double ` -- ` too.

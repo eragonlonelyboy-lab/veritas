@@ -122,6 +122,9 @@ VERITAS is a [Demiurge](https://github.com/eragonlonelyboy-lab/demiurge) product
 | **CHIRON** | Corrections become permanent cross-agent rules |
 | **ATHENA** | Decision trials with verdicts on the record |
 | **CALLIOPE** | A full design agency in the terminal; its client prose runs VERITAS-clean |
+| **ZOILUS** | The merciless critic: a blind panel judges the craft and rejects on doubt |
+| **PEITHO** | Go-to-market words that refuse to sound generic; VERITAS is the pass they must survive |
+| **PYRRHO** | The skeptic: no numeric claim ships until the data earns it |
 
 VERITAS cleans what your agents say; HORKOS checks what they did. The pair covers both halves of trust.
 

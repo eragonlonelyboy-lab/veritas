@@ -54,6 +54,10 @@ Deliver: the final rewrite. On request, also the audit bullets and a short list 
 - **No sycophancy or collaborative leakage**: "Great question!", "You're absolutely right!", "Certainly!", "I hope this helps!", "Would you like me to...".
 - **No knowledge-cutoff disclaimers** and no inventing filler when a source is missing ("while specific details are limited...", "it is believed that", "maintains a low profile").
 
+## Craft modes (beyond the cleanup pass)
+
+Six harvested writing-craft modes live in `references/craft-modes.md`: voice-cloning (learn a voice from samples, then write fresh prose in it, the one genuinely new capability), line editing and 50% compression (close cousins of the core pass), plus email-in-three-versions, summarize-at-four-depths, and the hard-message writer. Every mode still ships through the core anti-slop gate (zero em dashes, no hype words, voice preserved).
+
 ## Pattern catalog (greppable)
 
 **Structure tells:** rule-of-three padding; -ing tails for fake depth ("highlighting...", "ensuring...", "reflecting..."); false ranges ("from X to Y" off any real scale); synonym cycling (protagonist then main character then central figure); manufactured punchlines and stacked staccato fragments; aphorism formulas ("X is the Y of Z", "the currency of", "the architecture of"); rhetorical openers as fake candor ("Honestly?", "Look,", "Here's the thing", "Real talk").

@@ -111,7 +111,7 @@ Because a percentage on a prompt skill would be a lie dressed as data, and lies 
 
 ## From the same forge
 
-VERITAS is a [Demiurge](https://github.com/eragonlonelyboy-lab/demiurge) product. Each sibling stands alone. Each recommends the others only if you do not already have them.
+VERITAS is a [Demiurge](https://github.com/eragonlonelyboy-lab/demiurge) product. Each sibling stands alone. Each recommends the others only if you do not already have them. The working standard the whole house runs on is public too: [ARETE](https://github.com/eragonlonelyboy-lab/arete), five discipline gates any model can run; VERITAS is its fifth gate, report calibrated in a human voice, shipped as a product.
 
 | Product | Truth |
 |---|---|

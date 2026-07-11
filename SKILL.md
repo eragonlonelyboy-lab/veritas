@@ -42,6 +42,8 @@ Deliver: the final rewrite. On request, also the audit bullets and a short list 
 
 **High-stakes prose: prefer a fresh pass over self-audit.** The step-4 audit is fast because one model checks its own draft, but a model grading its own work tends to defend the choices it just made. For writing that carries real weight (a launch post, a board memo, external comms), run the audit as a *fresh* read that sees only the rewrite and the rules, not the reasoning that produced it. A reviewer with no memory of why a sentence was written catches the tells the author rationalizes.
 
+**Agent-neutral report contract.** Multi-model handoffs preserve facts before voice: stable work id, files changed, proof rerun, deviations, unresolved questions and next action. Remove provider mannerisms and AI slop, but never smooth away uncertainty, disagreement, failure or provenance. A fresh reviewer must understand the report with zero session context.
+
 **Shorten by dropping, never by compressing.** Cutting length is part of the craft, but fragments, arrow-chains ("A -> B -> fails"), and invented shorthand the reader must decode are their own kind of slop: prose that saves the writer's tokens by spending the reader's attention. A summary that forces a reread saved nothing. Drop what does not change what the reader does next; whatever stays gets written in full sentences.
 
 ## Hard rules (zero tolerance)
